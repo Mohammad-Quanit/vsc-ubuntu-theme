@@ -1,0 +1,21 @@
+{
+    "name": "gnome-theme",
+    "displayName": "gnome-theme",
+    "description": "Gnome Ubuntu styled vs code theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Gnome Ubuntu",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Gnome Ubuntu-color-theme.json"
+            }
+        ]
+    }
+}
