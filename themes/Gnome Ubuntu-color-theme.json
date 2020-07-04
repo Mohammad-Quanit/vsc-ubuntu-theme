@@ -2,7 +2,7 @@
 	"name": "Gnome Ubuntu",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#0f030f",
+		"editor.background": "#2b0e2b",
 		"editor.foreground": "#d4b503",
 		"activityBarBadge.background": "#9c00cc",
 		"sideBarTitle.foreground": "#bbbbbb"
@@ -26,7 +26,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#569292"
+				"foreground": "#e9ec0f"
 			}
 		},
 		{
@@ -56,16 +56,16 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#925db6"
 			}
 		},
 		{
 			"name": "Operator, Misc",
 			"scope": [
-				"keyword.control",
+				// "keyword.control",
 				"constant.other.color",
-				"punctuation",
-				"meta.tag",
+				// "punctuation",
+				// "meta.tag",
 				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
 				"punctuation.definition.tag.html",
@@ -76,7 +76,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#f07178"
 			}
 		},
 		{
@@ -135,7 +135,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#fce300"
 			}
 		},
 		{
@@ -150,7 +150,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#36a50b"
 			}
 		},
 		{
@@ -304,7 +304,7 @@
 				"string.regexp"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#a389ff"
 			}
 		},
 		{
